@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 #Java Project
-/bin/
+bin/
 
 ### STS ###
 .apt_generated
